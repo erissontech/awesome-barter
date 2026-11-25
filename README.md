@@ -13,7 +13,7 @@ A curated list of open-source tools, apps, protocols, and field manuals for bart
 * [BarterScore Engine](https://github.com/barterscoreengine/barterscore) - Zero-dependency, local-first JS library/SDK that calculates exact barter parity for survival goods and essential human services in crisis scenarios.
 
 ## Apps & Local Exchange Platforms
-*Looking for open-source barter apps, mutual aid directories. [Submit a PR!](CONTRIBUTING.md)*
+* [Hylo](https://github.com/Hylozoic/hylo) - Commons-owned platform for groups that want to build trust, coordinate action, and grow together.
 
 ## Protocols & Field Manuals
 *Looking for printable guides, offline protocols, and standardization frameworks for non-monetary exchange. [Submit a PR!](CONTRIBUTING.md)*
